@@ -19,3 +19,4 @@ Alguns códigos aqui no GitHub
 | [Python com Flask](jogoteca-python )          | Projetos desenvolvidos utilizando a linguagem Python     |
 | [Java](Java.md)              | projetos desenvolvidos utilizando a linguagem Java       |
 | [Javascript](Javascript.md) | Projetos desenvolvidos utilizando a linguagem Javascript |
+| [Shell script](ShellScript.md) | Cheat-sheet de comandos úteis em shell script (WIP)|
