@@ -12,6 +12,9 @@ Esta página contém meus comandos úteis em shells script para criação de rot
 - [Curso 4Linux - Linux Essentials](https://4linux.com.br/cursos/treinamento/linux-essentials/)
 
 ## Comandos
+> Mais em: [Comanos Uteis Terminal Linux/MacOS]( biblioteca-comandos-linux.md )
+
+
 ```shell
 # Comando echo : para exibir no terminal
 $ echo bem vindo 
