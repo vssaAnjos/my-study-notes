@@ -6,8 +6,11 @@
 Este repositório contém minhas anotações de cursos e projetos de demos desenvolvidos durante meus estudos em tecnologia.
 
 ## Notas de estudos
+> em construção
 - Python
-- Hadoop: Arquitetura e ecossistema
+- Hadoop
+- Hive
+- AWS
 
 ## Projetos Públicos
 Alguns códigos aqui no GitHub
