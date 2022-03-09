@@ -23,4 +23,5 @@ Alguns códigos aqui no GitHub
 | [Javascript](Javascript_projetos.md) | Index de Projetos desenvolvidos utilizando a linguagem Javascript |
 | [Shell script](https://github.com/vssaAnjos/my-study-notes/blob/master/ShellScript/ShellScript.md) | Cheat-sheet de comandos úteis em shell script (WIP)|
 | [Linux](https://github.com/vssaAnjos/my-study-notes/blob/master/linux/biblioteca-comandos-linux.md) | cheat sheet de comandos Linux |
+|[Python resumo](https://github.com/vssaAnjos/my-study-notes/blob/master/python/Python.md)| resumo de aulas e estudos |
 | [Node.js](https://github.com/vssaAnjos/crud-data-catalog-node)          | Meu Projeto desenvolvido utilizando o framework NodeJS      |
